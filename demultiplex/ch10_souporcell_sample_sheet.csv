@@ -1,0 +1,3 @@
+OUTNAME,RNA,TagFile,TYPE
+Ch10_scRNA_AVITI,s3://gred-cumulus-data/AVITI_pilot/run_count/output/Ch10_scRNA_AVITI/raw_feature_bc_matrix.h5,s3://gred-cumulus-data/AVITI_pilot/run_count/output/Ch10_scRNA_AVITI/possorted_genome_bam.bam,genetic-pooling
+Ch10_scRNA_Illumina,s3://gred-cumulus-data/AVITI_pilot/run_count/output/Ch10_scRNA/raw_feature_bc_matrix.h5,s3://gred-cumulus-data/AVITI_pilot/run_count/output/Ch10_scRNA/possorted_genome_bam.bam,genetic-pooling

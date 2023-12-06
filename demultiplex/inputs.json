@@ -1,0 +1,6 @@
+{
+  "demultiplexing.input_sample_sheet": "sample_sheet.csv",
+  "demultiplexing.output_directory": "s3://gred-cumulus-data/AVITI_pilot/demultiplex/output",
+  "demultiplexing.write_to_dsdb": false,
+  "demultiplexing.genome": "GRCh38-2020-A"
+}

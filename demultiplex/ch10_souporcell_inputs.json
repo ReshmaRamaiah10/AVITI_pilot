@@ -1,0 +1,7 @@
+{
+  "demultiplexing.input_sample_sheet": "ch10_souporcell_sample_sheet.csv",
+  "demultiplexing.output_directory": "s3://gred-cumulus-data/AVITI_pilot/demultiplex_souporcell/output",
+  "demultiplexing.write_to_dsdb": false,
+  "demultiplexing.genome": "GRCh38-2020-A",
+  "demultiplexing.souporcell_num_clusters": 8
+}
