@@ -1,0 +1,8 @@
+Library,Reference,Flowcell,Lane,Index,Chemistry,DataType,FeatureBarcodeFile
+Ch7_scRNA,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/upload/210423_VH00348_4_AAAFMHJHV,*,SI-TT-B2,threeprime,rna
+Ch7_CellPlex,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/upload/210423_VH00348_4_AAAFMHJHV,*,SI-NN-A2,threeprime,cmo,s3://gred-cumulus-data/AVITI_pilot/upload/feature_barcode.csv
+Ch10_scRNA,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/upload/210421_VH00348_3_AAAFVWMHV,*,SI-TT-A5,fiveprime,rna
+Ch10_CITE,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/upload/210421_VH00348_3_AAAFVWMHV,*,SI-TN-A1,fiveprime,citeseq
+Ch10_TCR,GRCh38_vdj_v7.0.0,s3://gred-cumulus-data/AVITI_pilot/upload/210421_VH00348_3_AAAFVWMHV,*,SI-TT-A1,fiveprime,vdj
+Ch10_BCR,GRCh38_vdj_v7.0.0,s3://gred-cumulus-data/AVITI_pilot/upload/210421_VH00348_3_AAAFVWMHV,*,SI-TT-A3,fiveprime,vdj
+

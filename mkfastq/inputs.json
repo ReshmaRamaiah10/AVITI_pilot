@@ -1,0 +1,7 @@
+{
+  "cellranger_workflow.input_csv_file": "sample_sheet.csv",
+  "cellranger_workflow.output_directory": "s3://gred-cumulus-data/AVITI_pilot/output",
+  "cellranger_workflow.write_to_dsdb": false,
+  "cellranger_workflow.run_mkfastq": true,
+  "cellranger_workflow.run_count": false
+}

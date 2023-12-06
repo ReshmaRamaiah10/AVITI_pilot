@@ -1,0 +1,11 @@
+Library,Reference,Flowcell,Chemistry,DataType,FeatureBarcodeFile
+Ch7_scRNA,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/downsampled_fastqs/,threeprime,rna
+Ch7_scRNA_AVITI,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/AVITI_fastqs/,threeprime,rna
+Ch7_CellPlex,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/output/210423_VH00348_4_AAAFMHJHV_fastqs/fastq_path/AAAFMHJHV/,threeprime,cmo,s3://gred-cumulus-data/AVITI_pilot/upload/feature_barcode.csv
+Ch7_CellPlex_AVITI,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/downsampled_fastqs/,threeprime,cmo,s3://gred-cumulus-data/AVITI_pilot/upload/feature_barcode.csv
+Ch10_scRNA,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/downsampled_fastqs/,fiveprime,rna
+Ch10_scRNA_AVITI,GRCh38-2020-A,s3://gred-cumulus-data/AVITI_pilot/AVITI_fastqs/,fiveprime,rna
+Ch10_TCR,GRCh38_vdj_v7.0.0,s3://gred-cumulus-data/AVITI_pilot/output/210421_VH00348_3_AAAFVWMHV_fastqs/fastq_path/AAAFVWMHV/,fiveprime,vdj
+Ch10_TCR_AVITI,GRCh38_vdj_v7.0.0,s3://gred-cumulus-data/AVITI_pilot/AVITI_fastqs/,fiveprime,vdj
+Ch10_BCR,GRCh38_vdj_v7.0.0,s3://gred-cumulus-data/AVITI_pilot/output/210421_VH00348_3_AAAFVWMHV_fastqs/fastq_path/AAAFVWMHV/,fiveprime,vdj
+Ch10_BCR_AVITI,GRCh38_vdj_v7.0.0,s3://gred-cumulus-data/AVITI_pilot/AVITI_fastqs/,fiveprime,vdj
